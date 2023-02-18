@@ -1,0 +1,15 @@
+C:\Users\50378\Desktop\Semana4\bin\Debug\net6.0\Semana 4.exe
+C:\Users\50378\Desktop\Semana4\bin\Debug\net6.0\Semana 4.deps.json
+C:\Users\50378\Desktop\Semana4\bin\Debug\net6.0\Semana 4.runtimeconfig.json
+C:\Users\50378\Desktop\Semana4\bin\Debug\net6.0\Semana 4.dll
+C:\Users\50378\Desktop\Semana4\bin\Debug\net6.0\Semana 4.pdb
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.csproj.AssemblyReference.cache
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.AssemblyInfoInputs.cache
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.AssemblyInfo.cs
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.csproj.CoreCompileInputs.cache
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.dll
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\refint\Semana 4.dll
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.pdb
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\Semana 4.genruntimeconfig.cache
+C:\Users\50378\Desktop\Semana4\obj\Debug\net6.0\ref\Semana 4.dll
